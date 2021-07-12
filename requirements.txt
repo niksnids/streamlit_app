@@ -1,0 +1,12 @@
+pandas
+pyHIve
+matplotlib
+textblob
+preprocessor
+streamlit
+plotly
+wordcloud
+nltk
+Image
+pillow
+
